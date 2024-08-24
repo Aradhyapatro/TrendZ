@@ -1,0 +1,5 @@
+package com.TrendZ.Ecomm.model;
+
+public class PaymentLinkResponse {
+
+}
